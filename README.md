@@ -6,7 +6,7 @@
   - [X] [2.VCS (hello gitty), GitHub and Collaboration](https://github.com/kottans/frontend/blob/master/tasks/git-collaboration.md)
  
  ## Front-End Basics
-  - [ ] 3.Intro to HTML & CSS
+  - [x] [3.Intro to HTML & CSS](https://github.com/kottans/frontend/blob/master/tasks/html-css-intro.md)
   - [ ] 4.Responsive Web Design
   - [ ] 5.HTML & CSS Practice
   - [ ] 6.JavaScript Basics
@@ -119,3 +119,15 @@ sudo пароль(права адміністратора)
     <img src="task_git_collaboration/learngitbranching-2.png">
   </details>
   
+## Intro to HTML and CSS
+Я вивчала HTML, CSS за допомогою сайта https://htmlacademy.ru   
+Для того, щоб встигнути пройти інші завдання, я пропустила це завдання.  
+Пізніше я повернусь до нього.
+  <details>
+    <summary>
+     screenshot
+    </summary>
+    <img src="task_html_css_intro/1.jpg">
+    <img src="task_html_css_intro/2.png">
+    <img src="task_html_css_intro/3.png">
+  </details>
