@@ -3,7 +3,7 @@
 ## General
   - [x] [0.Git Basics](https://github.com/kottans/frontend/blob/master/tasks/git-intro.md)
   - [x] [1.Linux CLI and HTTP](https://github.com/kottans/frontend/blob/master/tasks/linux-cli-http.md)
-  - [ ] 2.VCS (hello gitty), GitHub and Collaboration
+  - [X] [2.VCS (hello gitty), GitHub and Collaboration](https://github.com/kottans/frontend/blob/master/tasks/git-collaboration.md)
  
  ## Front-End Basics
   - [ ] 3.Intro to HTML & CSS
