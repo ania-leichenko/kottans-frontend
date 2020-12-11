@@ -109,4 +109,13 @@ sudo пароль(права адміністратора)
     <img src="task_linux_cli/Quiz_Number_4.png">
   </details>
   
----
+---  
+## Git Collaboration
+Я прошла ті завдання ще в першій задачі.
+  <details>
+    <summary>
+     screenshot
+    </summary>
+    <img src="task_git_collaboration/learngitbranching-2.png">
+  </details>
+  
