@@ -8,9 +8,9 @@
  ## Front-End Basics
   - [x] [3.Intro to HTML & CSS](https://github.com/kottans/frontend/blob/master/tasks/html-css-intro.md)
   - [x] [4.Responsive Web Design](https://github.com/kottans/frontend/blob/master/tasks/html-css-responsive.md)
-  - [x] [5.HTML & CSS Practice](https://github.com/kottans/frontend/blob/master/tasks/js-basics.md)
-  - [ ] 6.JavaScript Basics
-  - [ ] 7.Document Object Model - practice
+  - [ ] 5.HTML & CSS Practice
+  - [x] [6.JavaScript Basics](https://github.com/kottans/frontend/blob/master/tasks/js-basics.md)
+  - [x] [7.Document Object Model - practice](https://github.com/kottans/frontend/blob/master/tasks/js-dom.md)
   
  ## Advanced Topics
   - [ ] 8.Building a Tiny JS World (pre-OOP) - practice
@@ -276,3 +276,15 @@ object.keys()-масив, який містить усі ключі, що збе
     <img src="task_js_basics/2.png">
     <img src="task_js_basics/3.png">
   </details>  
+---
+
+## DOM
+В цьому розділі я вивчила, що таке DOM.Тема доволі складна і мені довелося пропустити 2 завдання і піти далі, щоб встигнути зробити Post OOP, але я обов'язково до нього повернусь.
+  <details>
+    <summary>
+     screenshot
+    </summary>
+    <img src="task_js_dom/udacity.png">
+  </details>    
+
+[Demo](https://ania-leichenko.github.io/kottans-frontend-dom/) | [Code base](https://github.com/ania-leichenko/kottans-frontend-dom)
