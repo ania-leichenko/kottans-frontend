@@ -13,7 +13,7 @@
   - [x] [7.Document Object Model - practice](https://github.com/kottans/frontend/blob/master/tasks/js-dom.md)
   
  ## Advanced Topics
-  - [ ] 8.Building a Tiny JS World (pre-OOP) - practice
+  - [x] [8.Building a Tiny JS World (pre-OOP) - practice](https://github.com/ania-leichenko/kottans-frontend#tiny-js-world)
   - [ ] 9.Object oriented JS - practice
   - [ ] 10.OOP exercise - practice
   - [ ] 11.Offline Web Applications
