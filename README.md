@@ -14,7 +14,7 @@
   
  ## Advanced Topics
   - [x] [8.Building a Tiny JS World (pre-OOP) - practice](https://github.com/kottans/frontend/blob/master/tasks/js-pre-oop.md)
-  - [ ] 9.Object oriented JS - practice
+  - [x][9.Object oriented JS - practice](https://github.com/kottans/frontend/blob/master/tasks/js-oop.md)
   - [ ] 10.OOP exercise - practice
   - [ ] 11.Offline Web Applications
   - [ ] 12.Memory pair game — real project!
@@ -292,3 +292,16 @@ object.keys()-масив, який містить усі ключі, що збе
 ---
 ## Tiny JS World
 [Demo](https://ania-leichenko.github.io/a-tiny-JS-world/) | [Code base](https://github.com/ania-leichenko/a-tiny-JS-world)
+
+---
+## Object Oriented JS
+Це була одна із складних тем для мене. Дізналась як працює scopes, closures, ключеве слово 'this', prototype наслідування та функції конструктори тепер залишилося закріпити на практиці.
+<details>
+    <summary>
+     screenshot
+    </summary>
+    <img src="task_js_oop/codewars.png">
+    <img src="task_js_oop/udacity.jpg">
+  </details>
+
+   [CodeWars](https://www.codewars.com/users/ania-leichenko)
