@@ -14,7 +14,7 @@
   
  ## Advanced Topics
   - [x] [8.Building a Tiny JS World (pre-OOP) - practice](https://github.com/kottans/frontend/blob/master/tasks/js-pre-oop.md)
-  - [x][9.Object oriented JS - practice](https://github.com/kottans/frontend/blob/master/tasks/js-oop.md)
+  - [x] [9.Object oriented JS - practice](https://github.com/kottans/frontend/blob/master/tasks/js-oop.md)
   - [ ] 10.OOP exercise - practice
   - [ ] 11.Offline Web Applications
   - [ ] 12.Memory pair game — real project!
